@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/eloipoch/rpn-calculator.svg)](https://travis-ci.org/eloipoch/rpn-calculator)
+
 # RPN Calculator (for integers)
 
 Reverse Polish Notation calculator kata done at [Clojure Barcelona MeetUp](http://www.meetup.com/ClojureBCN/events/219734804/)
