@@ -1,7 +1,6 @@
 (ns rpn-calculator.core-test
   (:use midje.sweet)
-  (:require [clojure.test :refer :all]
-            [rpn-calculator.core :refer :all]))
+  (:require [rpn-calculator.core :refer [evaluate]]))
 
 (facts
   "about RPN Calculator for Integers"
